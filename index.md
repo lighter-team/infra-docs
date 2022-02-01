@@ -5,8 +5,8 @@
 ### Apps
 
 - [https://lighter-app.buzz/](https://lighter-app.buzz/) Landing page
-- [http://staging.lighter-api.com/](http://staging.lighter-api.com/) Core API
-- [http://staging.lighter-api.com/api-docs/](http://staging.lighter-api.com/) Core API Docs
+- [https://apitest.lighter-app.buzz/](https://apitest.lighter-app.buzz/) Dev API
+- [https://apitest.lighter-app.buzz/api-docs/](https://apitest.lighter-app.buzz/api-docs/) Dev API Docs
 
 ### Organizational
 
